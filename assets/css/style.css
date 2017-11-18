@@ -1,0 +1,43 @@
+body {
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+
+.jumbotron-fluid {
+    padding-bottom: 0;
+    /* background-image: url('../../assets/images/header2.jpg');
+    background-position-y: no-repeat; */
+}
+
+.h1, h1 {
+font-size: 60px;
+}
+
+.p, p {
+    font-size: 40px
+}
+
+.text-muted {
+    font-size: 20px;
+}
+
+.current-word, .guesses-remain, .letters-guessed {
+    font-size: 50px;
+    border-bottom: 2px;
+}
+
+.w-100 {
+    font-size: 40px;
+}
+
+.btn-primary {
+    font-size: 40px;
+}
+
+#current-movie, #guess-remain, #letters-guessed {
+    font-size: 50px;
+}
+
+.btn-group-sm>.btn {
+    padding-left: 15px;
+    padding-right: 15px;
+}
